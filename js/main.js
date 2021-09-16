@@ -23,7 +23,7 @@ let answer = document.getElementById("answer");
 let ball = document.getElementById("ball");
 let question = document.getElementById("question");
 
-ball.addEventListener("click", function() {
+button.addEventListener("click", function() {
 if (question.value.length < 1) {
 alert('Enter a question!');
 } else {
