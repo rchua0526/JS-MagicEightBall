@@ -1,0 +1,53 @@
+body {
+    background-color:red;
+}
+#content {
+    width: 600px; 
+    margin: 0 auto; 
+    margin-top: 50px; 
+    text-align: center; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-weight: 100;
+}
+
+#question {
+    border: 3px black solid;
+}
+
+.ball {
+    background-color: black;
+    border:  2px solid black;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: 30px
+}
+
+p {
+    text-align: center;
+}
+
+.answer {
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+    margin: 25% auto;
+
+}
+
+#eight {
+    font-size: 60px;
+}
+
+#answer {
+    /* padding: 23px; */
+    color: black;
+    letter-spacing: 2px;
+    font-size:18px;
+    
+}
+
