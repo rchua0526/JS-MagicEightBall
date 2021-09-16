@@ -1,5 +1,5 @@
 body {
-    background-color:red;
+    background-color:green;
 }
 #content {
     width: 600px; 
@@ -29,6 +29,10 @@ p {
     text-align: center;
 }
 
+.ask {
+    color: white;
+    text-;
+}
 .answer {
     background-color: white;
     border: 1px solid white;
@@ -44,10 +48,12 @@ p {
 }
 
 #answer {
-    /* padding: 23px; */
+    padding: 5px;
     color: black;
     letter-spacing: 2px;
     font-size:18px;
     
 }
+
+
 
